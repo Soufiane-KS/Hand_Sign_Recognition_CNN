@@ -1,4 +1,4 @@
-<img width="226" height="161" alt="image" src="https://github.com/user-attachments/assets/e4a6a44d-e2ee-436d-b99f-531da8ec7d84" /># Project Report: CNN for Hand Sign Recognition
+#Project Report: Alternative CNN for Hand Sign Recognition
 
 **Prepared by:** Soufiane KOUSTA
 **Comparison with:** Anouar Moudad's Model  
