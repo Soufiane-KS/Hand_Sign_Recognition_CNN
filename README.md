@@ -1,4 +1,4 @@
-#Project Report: Alternative CNN for Hand Sign Recognition
+# Project Report: Alternative CNN for Hand Sign Recognition
 
 **Prepared by:** Soufiane KOUSTA
 **Comparison with:** Anouar Moudad's Model  
